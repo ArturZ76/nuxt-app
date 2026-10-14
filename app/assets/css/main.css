@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+
+body{
+    @apply bg-amber-400
+}

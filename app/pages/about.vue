@@ -1,0 +1,12 @@
+<template>
+    <div>
+        <h1>Hello About</h1>
+        <nuxt-link to="/">Home</nuxt-link>
+    </div>
+</template>
+
+<script setup lang="ts">
+
+</script>
+
+<style scoped></style>
